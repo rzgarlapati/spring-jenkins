@@ -20,6 +20,7 @@ public class JenkinsdemoApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		logger.info("Application Started ");
+		logger.info("Checking automatic build trigger");
 
 
 	}
